@@ -32,15 +32,21 @@
 | Mateo03     | [MateoGuzman03](https://github.com/MateoGuzman03)   | [Mateo Guzmán](https://www.linkedin.com/in/mateoguzm%C3%A1n03) |
 | AugustoPrz  | [AugustoPrz](https://github.com/AugustoPrz)         | [Augusto Perez Ferrero](https://www.linkedin.com/in/augustopf) |
 
+## Marketing TEAM:
+
+| Discord        | GitHub | Linkedin                                                               |
+|----------------|--------|------------------------------------------------------------------------|
+| Giugarbini     |   N/A  | [Giuliana Garbini](https://www.linkedin.com/in/giulianagarbini/)       |
+| Kolmann.juanma |   N/A  | [Juan Manuel Kolmann](https://www.linkedin.com/in/juan-manuel-kolmann) |
+
+## Facility Manager TEAM:
+
+| Discord      | GitHub                               | Linkedin                                                             |
+|--------------|--------------------------------------|----------------------------------------------------------------------|
+| XCrhona#2477 | [Crhona](https://github.com/Crhona)  | [Ivan Lionel Rolando](https://www.linkedin.com/in/ivanlionelrolando) |                                             |
+
 
 ## UX/UI TEAM:
-
-| Discord     | GitHub         | Linkedin                                     |
-|-------------|----------------|----------------------------------------------|
-| XXXXXX      |                |                                              |
-
-
-## Marketing TEAM:
 
 | Discord     | GitHub         | Linkedin                                     |
 |-------------|----------------|----------------------------------------------|
